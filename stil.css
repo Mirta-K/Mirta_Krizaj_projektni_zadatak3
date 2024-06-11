@@ -1,0 +1,137 @@
+p{
+	color:purple;
+	font-family: 'Quicksand-VariableFont_wght';
+	font-size: 18px;
+	line-height: 18px;
+	width: 600px;
+	background-color: rgba(151, 210, 255, 0.4);
+	padding: 20px;
+}
+.pozadina {
+	background-image: url("fotografije/pozadina_projekt.png");
+	background-size: cover; 
+    background-repeat: no-repeat;
+	color: rgba(200, 0, 255, 0.6);
+	font-family: 'Quicksand-VariableFont_wght';
+	font-size: 18px;
+}
+.pozadina2 {
+	background-image: url("fotografije/pozadina_projekt3.jpg");
+	background-size: cover; 
+    background-repeat: no-repeat;
+	color: rgba(200, 0, 255, 0.6);
+	font-family:'Quicksand-VariableFont_wght';
+	font-size: 18px;
+}
+.naslov {
+	color: rgb(126, 0, 255);
+	font-family: "customfont"; src: url("MirtaKrizaj_v.ttf");
+}
+.knjiznica{
+	color: black;
+	font-size: 16px;
+	background-color: rgba(255, 255, 255, 0);
+	margin-left: 200px;
+	padding: 0px;
+}
+.kolaci{
+	display: inline;
+	color: white;
+	font-size: 16px;
+	background-color: rgba(255, 255, 255, 0);
+	margin-right: 250px;
+	margin-left: 200px;
+	padding: 0px;
+}
+.novi_blok{
+	color: white;
+	font-size: 18px;
+	padding: 10px;
+	margin: 10px;
+	width: 25%;
+	background-color: rgba(255, 163, 200, 1);
+}
+.natuknice{
+	color: rgba(85, 225, 255, 0.8);
+	font-size: 30px;
+	margin-left: 100px;
+	margin-top: 50px
+}
+img{
+	height: 400px;
+	margin-left: 60px;
+}
+.video{
+	height: 400px;
+	margin-left: 60px;
+}
+.opisi{
+	color: black;
+	font-size: 16px;
+	background-color: rgba(255, 255, 255, 0);
+	margin-right: 150px;
+	margin-left: 150px;
+	padding: 0px;
+	display:inline;
+}
+.tekst{
+	color:rgba(90, 90, 255, 1);
+	font-family: 'Quicksand-VariableFont_wght';
+	font-size: 18px;
+	line-height: 18px;
+	width: 1000px;
+	background-color: rgba(200, 200, 255, 0.5);
+	padding: 20px;
+}
+.tekst2{
+	color:green;
+	font-family: 'Quicksand-VariableFont_wght';
+	font-size: 18px;
+	line-height: 18px;
+	width: 700px;
+	background-color: rgba(151, 210, 255, 0.4);
+	padding: 20px;
+}
+.tekst3{
+	color: rgba(90, 90, 255, 1);
+	font-family: 'Quicksand-VariableFont_wght';
+	font-size: 18px;
+	line-height: 18px;
+	width: 700px;
+	background-color: rgba(200, 200, 255, 0.7);
+	padding: 20px;
+}
+@font-face {
+    font-family: 'MirtaKrizaj_v';
+    src: url('font/MirtaKrizaj_v.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Quicksand-VariableFont_wght';
+    src: url('Quicksand-VariableFont_wght.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+a:link {
+	text-decoration:none;
+}
+.navigacijska_lista{
+	li {
+    display: inline;
+    color: rbg(0, 0, 255);
+	font-size: 20px;
+	background-color: rgba(170, 255, 255, 0.5);
+    padding:15px;
+	margin-left: auto; 
+    margin-right:auto;  
+	width: 300px;
+	display:inline;
+}
+a:hover{
+	background-color: darkgray;
+}
+a:link {
+	text-decoration:none;
+}
