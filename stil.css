@@ -13,7 +13,7 @@ p{
     background-repeat: no-repeat;
 	color: rgba(200, 0, 255, 0.6);
 	font-family: 'Quicksand-VariableFont_wght';
-	font-size: 18px;
+	font-size: 30px;
 }
 .pozadina2 {
 	background-image: url("fotografije/pozadina_projekt3.jpg");
@@ -21,11 +21,19 @@ p{
     background-repeat: no-repeat;
 	color: rgba(200, 0, 255, 0.6);
 	font-family:'Quicksand-VariableFont_wght';
-	font-size: 18px;
+	font-size: 30px;
 }
 .naslov {
 	color: rgb(126, 0, 255);
 	font-family: "customfont"; src: url("MirtaKrizaj_v.ttf");
+	font-size: 65px;
+}
+.naslov2{
+	font-family:'Quicksand-VariableFont_wght';
+	font-size: 24px;
+	background-color: rgba (200, 165, 255, 1);
+	padding: 30px;
+	width: 300px;
 }
 .knjiznica{
 	color: black;
@@ -43,6 +51,14 @@ p{
 	margin-left: 200px;
 	padding: 0px;
 }
+.japanski{
+	display: inline;
+	color: black;
+	font-size: 16px;
+	background-color: rgba(255, 255, 255, 0);
+	margin-left: 170px;
+	padding: 0px;
+}
 .novi_blok{
 	color: white;
 	font-size: 18px;
@@ -53,7 +69,7 @@ p{
 }
 .natuknice{
 	color: rgba(85, 225, 255, 0.8);
-	font-size: 30px;
+	font-size: 25px;
 	margin-left: 100px;
 	margin-top: 50px
 }
@@ -80,7 +96,7 @@ img{
 	font-size: 18px;
 	line-height: 18px;
 	width: 1000px;
-	background-color: rgba(200, 200, 255, 0.5);
+	background-color: rgba(200, 200, 255, 0.8);
 	padding: 20px;
 }
 .tekst2{
